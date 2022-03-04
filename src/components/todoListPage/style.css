@@ -1,0 +1,44 @@
+.todo{
+    padding-top: 30px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.filter{
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input-label{
+    width: 120px;
+}
+
+.addTodo{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.addTodo-textField{
+    width: 300px;
+}
+
+.modalAddCategory{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modalStatuDiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-bottom: 1px solid rgb(156, 155, 155);
+}
